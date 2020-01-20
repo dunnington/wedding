@@ -1,0 +1,52 @@
+{
+  "profiles": [
+    {
+      "name": "Melanie",
+      "description": "I live my whole life setting up situations that will eventually lead to the phrase, “And then laughter and hilarity ensued…” Hoping this one will work out too.",
+      "links": {
+        "instagram": "https://instagram.com/samantha/",
+        "facebook": "https://www.facebook.com/samantha"
+      }
+    },
+    {
+      "name": "Ken",
+      "description": "According to my 9th grade report card I’m a “hard working conscientious student” who is also “easily distracted in class”. What can I say? I do my homework but I also tend to daydream. Pretty much sums up who I still am today.",
+      "links": {
+        "instagram": "https://instagram.com/nathaniel",
+        "facebook": "https://www.facebook.com/nathaniel"
+      }
+    }
+  ],
+  "events": [
+    {
+      "title": "Wedding",
+      "occasion": {
+        "name": "A wedding, duh.",
+        "place": {
+          "name": "Dover, NH",
+          "map": "https://maps.google.com/maps?q=Casa%20Garden%20%7C%20Restaurant%20%26%20Event%20Venue&t=&z=13&ie=UTF8&iwloc=&output=embed"
+        },
+        "time": "12:00PM"
+      },
+      "calendar": {
+        "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20191110T133519Z%2F20191110T133519Z&details=&location=Casa%20Garden%2C%20Sacremento&text=Nathaniel%20%26%20Samantha%20Wedding&trp=false",
+        "outlook": "https://outlook.live.com/owa/?body=&enddt=20191110T133519&location=Casa%20Garden%2C%20Sacremento&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20191110T133519&subject=Nathaniel%20%26%20Samantha%20Wedding"
+      }
+    },
+    {
+      "title": "Wedding",
+      "occasion": {
+        "name": "A wedding, duh.",
+        "place": {
+          "name": "Dover, NH",
+          "map": "https://maps.google.com/maps?q=Casa%20Garden%20%7C%20Restaurant%20%26%20Event%20Venue&t=&z=13&ie=UTF8&iwloc=&output=embed"
+        },
+        "time": "12:00PM"
+      },
+      "calendar": {
+        "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20191110T133519Z%2F20191110T133519Z&details=&location=Casa%20Garden%2C%20Sacremento&text=Nathaniel%20%26%20Samantha%20Wedding&trp=false",
+        "outlook": "https://outlook.live.com/owa/?body=&enddt=20191110T133519&location=Casa%20Garden%2C%20Sacremento&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=20191110T133519&subject=Nathaniel%20%26%20Samantha%20Wedding"
+      }
+    }
+  ]
+}
